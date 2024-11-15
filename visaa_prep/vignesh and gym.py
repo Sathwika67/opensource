@@ -4,4 +4,4 @@ if x == z:
 elif x+y == z:
     print("2")
 else:
-    print("0")
+    print("0")
